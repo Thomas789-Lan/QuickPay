@@ -14,7 +14,7 @@ HTML = """
 <head>
     <title>QuickPay</title>
     <link rel="icon" href="icon.png">
-
+    <meta name="google-site-verification" content="googlef420cb4077c9e78d.html" />
     <style>
         body {
             margin: 0;
