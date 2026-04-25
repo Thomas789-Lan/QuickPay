@@ -1,0 +1,4 @@
+flask
+QrCode
+pillow
+gunicorn
