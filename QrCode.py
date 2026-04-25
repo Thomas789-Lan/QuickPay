@@ -83,7 +83,6 @@ HTML = """
     </style>
 
     <script>
-        // 🔥 Redirect to home if user refreshes /show
         if (window.location.pathname === "/show") {
             window.onbeforeunload = function() {
                 window.location.href = "/";
