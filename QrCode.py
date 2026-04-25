@@ -13,7 +13,7 @@ HTML = """
 <html>
 <head>
     <title>QuickPay</title>
-    <link rel="icon" href="/static/icon.png">
+    <link rel="icon" href="icon.png">
 
     <style>
         body {
